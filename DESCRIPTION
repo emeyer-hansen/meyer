@@ -1,0 +1,10 @@
+Package: meyer
+Type: Package
+Title: Contains functions for meyerization and prior Student t df determination
+Version: 0.1
+Date: 2023-12-2
+Author: Emil Niclas Meyer-Hansen
+Maintainer: Emil Niclas Meyer-Hansen <emil098meyerhansen@gmail.com>
+Depends: R (>= 4.0.0), stats
+Description: Provides novel functions for rescaling vectors as correlation coefficients and qualitatively determining degrees of freedom (df) for a prior Student t-distribution, including simple functions useful for frequentist and Bayesian statisticians.
+License: GPL (>=3)
