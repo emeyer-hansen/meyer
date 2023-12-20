@@ -1,0 +1,12 @@
+Package: meyer
+Type: Package
+Title: Novel and Classical Statistical Tools
+Version: 0.1
+Date: 2023-12-2
+Author: Emil Niclas Meyer-Hansen
+Maintainer: Emil Niclas Meyer-Hansen <emil098meyerhansen@gmail.com>
+Depends: R (>= 4.0.0), stats
+Description: Provides novel functions for rescaling vectors as correlation coefficients and qualitatively determining degrees of freedom (df) for a prior Student t-distribution, including simple functions useful for frequentist and Bayesian statisticians.
+URL: https://github.com/emeyer-hansen/meyer
+License: GPL (>=3)
+Encoding: UTF-8
