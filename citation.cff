@@ -1,9 +1,0 @@
-cff-version: 0.1
-message: "Please, cite this package if using any of its functions."
-authors:
-- family-names: "Meyer-Hansen"
-  given-names: "Emil Niclas"
-title: "meyer: Novel and Classical Statistical Tools"
-version: 0.1
-date-released: 2023-02-12
-url: "https://github.com/emeyer-hansen/meyer"
