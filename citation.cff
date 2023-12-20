@@ -1,0 +1,35 @@
+cff-version: 0.1
+message: 'To cite package "meyer" in publications use:'
+type: software
+title: 'meyer: Novel and Classical Statistical Tools'
+version: 0.1
+abstract: Includes novel functions for meyerization, prior Student t df determination, Type M level, Power Assessment, as well as classical tools for statistical analysis.
+authors:
+- family-names: 'Meyer-Hansen'
+  given-names: 'Emil Niclas'
+  email: emil098meyerhansen@gmail.com
+preferred-citation:
+  type: manual
+  title: 'meyer: Classical and Statistical Tools'
+  authors:
+  - family-names: 'Meyer-Hansen'
+    given-names: 'Emil N.'
+    email: emil098meyerhansen@gmail.com
+  year: '2023'
+  notes: R package version 0.1
+  url: https://github.com/emeyer-hansen/meyer
+contact:
+- family-names: 'Meyer-Hansen'
+  given-names: 'Emil N.'
+  email: emil098meyerhansen@gmail.com
+keywords:
+- meyerization
+- r_score_transformation
+- meyersDF
+- assessPower
+- typeMlevel
+- r
+- r-package
+- meyer
+date-released: 2023-02-12
+url: "https://github.com/emeyer-hansen/meyer"
